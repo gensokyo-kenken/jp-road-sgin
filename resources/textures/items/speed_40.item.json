@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jp-road-sign:speed_40",
+			"category": "Construction"
+		},
+		"components": {
+			"minecraft:icon": "speed_40",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}
