@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "jp-road-sign",
+      "description": "日本で利用されている道路標識を追加します。",
+      "version": [0, 0, 1],
+      "uuid": "b3bb4801-3241-4671-abc6-74f9f2f8b505",
+      "min_engine_version": [1, 13, 0],
+      "pack_scope": "world"
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "description": "jp-road-sign module",
+        "version": [1, 0, 0],
+        "uuid": "c379855a-c6c0-4a5d-99ad-23b02ebf4a86"
+      }
+    ],
+    "metadata": {
+      "authors": [
+        "gensokyo-kenken"
+      ],
+      "url": "https://github.com/gensokyo-kenken/jp-road-sign",
+      "license": "zlib license",
+      "generated_with": {
+        "TokaTools-Manifest-Generator": ["1.8.0"]
+      }
+    }
+  }
