@@ -2,8 +2,17 @@
 	"resource_pack_name": "jp-road-sign",
 	"texture_name": "atlas.items",
 	"texture_data": {
+        "speed_30":{
+            "textures": "textures/items/30km"
+        },
 		"speed_40": {
 			"textures": "textures/items/40km"
-		}
+		},
+        "speed_50":{
+            "textures": "textures/items/50km"
+        },
+        "speed_60":{
+            "textures": "textures/items/60km"
+        }
 	}
 }

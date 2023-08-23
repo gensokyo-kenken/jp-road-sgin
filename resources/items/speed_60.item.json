@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jp-road-sign:speed_60",
+			"category": "Construction"
+		},
+		"components": {
+			"minecraft:icon": "speed_60",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

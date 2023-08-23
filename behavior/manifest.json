@@ -3,7 +3,7 @@
     "header": {
       "name": "jp-road-sign",
       "description": "日本で利用されている道路標識を追加します。",
-      "version": [0, 0, 5],
+      "version": [0, 0, 6],
       "uuid": "fe25d6b6-153a-41e5-8184-3e694e18ace8",
       "min_engine_version": [1, 13, 0],
       "pack_scope": "world"
